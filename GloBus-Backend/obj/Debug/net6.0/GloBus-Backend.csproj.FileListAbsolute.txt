@@ -30,3 +30,35 @@ C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Projekat Oop2\GloBus-Backend\GloBus-
 C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Projekat Oop2\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.pdb
 C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Projekat Oop2\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.genruntimeconfig.cache
 C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Projekat Oop2\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\ref\GloBus-Backend.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\GloBus-Backend.exe
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\GloBus-Backend.deps.json
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\GloBus-Backend.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\GloBus-Backend.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\GloBus-Backend.pdb
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\staticwebassets\msbuild.GloBus-Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.GloBus-Backend.props
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GloBus-Backend.props
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GloBus-Backend.props
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\scopedcss\bundle\GloBus-Backend.styles.css
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\refint\GloBus-Backend.dll
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.pdb
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\GloBus-Backend.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Fakultet\Napredne Baze Podataka\GloBus-Backend\GloBus-Backend\obj\Debug\net6.0\ref\GloBus-Backend.dll
